@@ -1,0 +1,17 @@
+{
+  "name": "quibble-test",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "license": "MIT",
+  "dependencies": {
+    "quibble": "^0.6.5"
+  }
+}
